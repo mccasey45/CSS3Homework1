@@ -1,0 +1,43 @@
+
+
+nav{
+    background-color: #ffea00;
+	display: inline-block
+
+}
+
+li{
+	height:40px;
+	width: 50%;
+    
+
+}
+body{
+	font-family: Times New Roman;
+	font-size: medium;
+}
+
+h1{
+    background-color: #ffea00;
+	color: #000BFF;
+	font-family: Comic Sans MS;
+	text-align: center;
+
+}
+
+main{
+	background-color: rgb(200, 200, 200)
+	font-size: medium;
+}
+
+
+p{
+    font-family: Arial
+	height:25px;
+
+}
+
+footer{
+    background-color: #ffea00;
+
+}
